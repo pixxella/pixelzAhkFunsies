@@ -80,8 +80,7 @@ QuickTip(text) {
 ^6::Send("🙏")
 :*:67::67 IS POOP
 :*:69::69 (nice)
-^!e::Run("notepad.exe")
-^!r::Reload()
+^!e::Run("notepad.exe") 
 
 ; ==============================================================================
 ; MOCK & WIDE TYPING HANDLER
